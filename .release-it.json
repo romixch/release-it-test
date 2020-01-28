@@ -1,0 +1,13 @@
+{
+  "git": {
+    "tag": true,
+    "tagName": "on-prem-${version}",
+    "requireCleanWorkingDir": false,
+    "commit": false,
+    "push": false
+  },
+  "github": {
+    "release": false
+  },
+  "npm": false
+}
